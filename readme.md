@@ -2,7 +2,7 @@
 
 **An AI Powered Social media manager website to reduce dependency on managers by 50%.**
 
-**Project Status**: Active
+**Project Status**: Inactive
 
 **Last Updated**: August 2023
 
